@@ -1,0 +1,31 @@
+.nav-sidebar{
+    margin: 80px -20px 20px 20px;
+}
+.nav-sidebar>li>a{
+    padding: 15px 20px; 
+}
+
+.main{
+    margin-top: 50px;
+    background-color: lightslategray;
+    padding: 20px;
+}
+.placeholders{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.placeholder{
+    margin-bottom: 20px;
+}
+.placeholders> img{
+    display: inline;
+    border-radius: 50%;
+}
+.nav-sidebar >li >a{
+    background-color:#000;
+}
+.nav-sidebar >li >a:hover{
+background-color: #000;
+color: #fff;
+}
